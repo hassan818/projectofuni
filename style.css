@@ -74,7 +74,7 @@ header nav ul li a {
 }
 header nav ul li a.active,
 header nav ul li a:hover {
-  color: #000;
+  color: #a62121;
 }
 
 /* End Header */
@@ -145,7 +145,7 @@ header nav ul li a:hover {
   position: relative;
 }
 .a-colored a {
-  color: #dd5454;
+  color: #545454;
 }
 .shop {
   margin-top: 30px;
@@ -175,9 +175,9 @@ header nav ul li a:hover {
   padding: 10px;
   margin-top: 30px;
 }
-.shop h6 {
-  display: flex;
-  justify-content: center;
+.shop h1,
+.women {
+  text-align: center;
   font-size: 25px;
   margin-top: 50px;
 }
@@ -198,11 +198,11 @@ header nav ul li a:hover {
   padding: 15px;
   background-color: rgb(155 145 150 / 25%);
 }
-.shop .product h3 {
+.shop .product h2 {
   font-size: 25px;
   color: #222020;
 }
-.shop .product h5 {
+.shop .product h3 {
   color: #dd5454;
   margin-top: 8px;
 }
@@ -293,13 +293,7 @@ header nav ul li a:hover {
   width: calc(100% - 30px);
   left: 15px;
 } */
-.about .image {
-  width: 50px;
-  height: 50px;
-  background-color: #b14242;
-  border-radius: 50%;
-  margin: 0 auto 10px;
-}
+
 .about-flex {
   display: flex;
   justify-content: space-between;
