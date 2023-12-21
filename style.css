@@ -208,17 +208,17 @@ header nav ul li a:hover {
 }
 /* End Shop  */
 /* start hat  */
-.discreption .discreption-flex {
+.descreption .descreption-flex {
   display: flex;
   margin-top: 30px;
 }
-.discreption img {
+.descreption img {
   box-shadow: 0px 2px 9px 5px;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
   height: 400px;
   margin-right: 50px;
 }
-.discreption .discreption-flex .product-discription .new {
+.descreption .descreption-flex .product-description .new {
   background-color: green;
   color: #fff;
   width: 100px;
@@ -226,26 +226,26 @@ header nav ul li a:hover {
   text-align: center;
   margin: 0;
 }
-.discreption .discreption-flex .product-discription h2 {
+.descreption .descreption-flex .product-description h2 {
   color: #595554;
   margin-top: 10px;
 }
-.discreption .discreption-flex .product-discription p {
+.descreption .descreption-flex .product-description p {
   margin: 15px 0px;
 }
-.discreption .discreption-flex .product-discription h3 {
+.descreption .descreption-flex .product-description h3 {
   color: #dd5454;
   margin: 20px 0;
   font-weight: bold;
 }
-.discreption .discreption-flex .product-discription input {
+.descreption .descreption-flex .product-description input {
   width: 30px;
   height: 27px;
   font-weight: bold;
   text-align: center;
   border-radius: 5px;
 }
-.discreption .discreption-flex .product-discription button {
+.descreption .descreption-flex .product-description button {
   border: none;
   color: white;
   padding: 5px 10px;
@@ -284,16 +284,6 @@ header nav ul li a:hover {
 .about h2 {
   margin-bottom: 10px;
 }
-/* .about h2::before {
-  content: "";
-  position: absolute;
-  height: 1px;
-  background-color: #a2a2a2;
-  bottom: 0;
-  width: calc(100% - 30px);
-  left: 15px;
-} */
-
 .about-flex {
   display: flex;
   justify-content: space-between;
@@ -328,3 +318,4 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+/* End Footer  */
